@@ -3,6 +3,9 @@ flask-cors
 flask-limiter
 flask-socketio
 flask-restful
+flask-jwt-extended
+flask-migrate
+flask-sqlalchemy
 gunicorn
 requests
 numpy
@@ -15,3 +18,4 @@ pillow
 matplotlib
 scikit-learn
 scipy
+python-dotenv
