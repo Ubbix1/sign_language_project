@@ -19,3 +19,4 @@ matplotlib
 scikit-learn
 scipy
 python-dotenv
+motor
